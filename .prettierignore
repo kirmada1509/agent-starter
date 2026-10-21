@@ -1,0 +1,12 @@
+node_modules
+.next
+.runtime
+coverage
+out
+pnpm-lock.yaml
+next-env.d.ts
+src/components
+src/hooks
+src/lib/utils.ts
+src/app/globals.css
+docs/ui-provenance.json

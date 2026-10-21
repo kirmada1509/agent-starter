@@ -1,0 +1,4 @@
+pnpm secrets:staged
+pnpm exec lint-staged
+pnpm ui:check
+pnpm typecheck

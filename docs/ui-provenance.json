@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "registry": "https://ui.shadcn.com/r",
+  "cliVersion": "4.22.1",
+  "acquisitions": [
+    {
+      "items": [
+        "theme",
+        "utils"
+      ],
+      "source": "https://ui.shadcn.com/r",
+      "generator": "shadcn init --base radix --preset nova",
+      "date": "2026-10-21"
+    },
+    {
+      "items": [
+        "button",
+        "input",
+        "label",
+        "card",
+        "badge",
+        "alert",
+        "dialog",
+        "select",
+        "textarea",
+        "table",
+        "tabs",
+        "skeleton",
+        "separator",
+        "sonner",
+        "empty-demo"
+      ],
+      "source": "https://ui.shadcn.com/r/styles/new-york-v4",
+      "date": "2026-10-21"
+    },
+    {
+      "items": [
+        "progress"
+      ],
+      "source": "https://ui.shadcn.com/r",
+      "date": "2026-10-21"
+    }
+  ],
+  "files": {
+    "src/components/empty-demo.tsx": "4e0ab19816fd67fc97e3d50c9b7c9bc8b3320173d6e6b348c219b93566e39e6e",
+    "src/components/ui/tabs.tsx": "e1df6e2f95ece373ca909c1d54b8ba8cf4c47dd425c1784bbb9a01c38dd0936b",
+    "src/components/ui/card.tsx": "ef8305b12c3112dab42a4708b41b1ebcc042fa5ab4c20f039da8d45b09ed5059",
+    "src/components/ui/label.tsx": "344bde38b8531615dbf8e14af3895517c24d8ef6ce56ddeda7e2e6fe4b5d0c00",
+    "src/components/ui/sonner.tsx": "13ccc9b0fe4248e622f83a1d3b2f0566b72b5e04162d7d0c8db8945ecc71b55f",
+    "src/components/ui/empty.tsx": "54f529ccf72c18c4b5abd5586a7cf1f2a4c8d207aac366029d66ed095cb2965d",
+    "src/components/ui/alert.tsx": "d03dcae5cdb63c381c1144ca9a0c49ba0e46466967d7deb94662034042acb034",
+    "src/components/ui/dialog.tsx": "0d2e82ed5e7040abda714a0471aff54535e05bad6249da049cc0c3bf3ae024e5",
+    "src/components/ui/badge.tsx": "13a9380dfff853ee730c14a52df49f22aecd31f40f2998d7c1e7ec458b6e1650",
+    "src/components/ui/table.tsx": "bd1a9fc83a5a2149e504038e274bb7e5a0351af59f6896df52ac4d5b439695ac",
+    "src/components/ui/separator.tsx": "ad7d5403fe337160e41dbf04147896e448ae3a747b8d06660d627d74d60021bc",
+    "src/components/ui/button.tsx": "79dd6f75f8136394442202d6b8b922fb269eaad0a5dba579397c9d5b41f893bb",
+    "src/components/ui/select.tsx": "962830436bd0b7ee50e556f0747e277d6a86869ed27d167516346b15f26309d8",
+    "src/components/ui/textarea.tsx": "5cafcfeeee29534f449387a16b585f5923d2faab1a0cdc50a874416b175f59ce",
+    "src/components/ui/input.tsx": "0c9457181f6ddc80969bcf854e92c362903a55b6e889fbef3fd85343ecc4af5b",
+    "src/components/ui/skeleton.tsx": "f51ce0fcd31e5c31437382e80ea0af94b4fc3d64221d27091d36824546780a43",
+    "src/lib/utils.ts": "14300d758170c270c75b057f38fedb3793a5920ea872f0477e29fb131185e8a7",
+    "src/app/globals.css": "15fd52bd462719c6469cb5978ece7a907e9558ac22050005abe8b865524e05e1",
+    "src/components/ui/progress.tsx": "e012e1f7e6e66d11229d1233eccf91954edcd9179b418ff1d114dc651b86fd35"
+  }
+}

@@ -1,0 +1,7 @@
+allowBuilds:
+  sharp: false
+  unrs-resolver: false
+
+savePrefix: ""
+engineStrict: true
+nodeVersion: 22.23.2

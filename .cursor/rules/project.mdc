@@ -1,0 +1,5 @@
+---
+description: Shared project engineering and UI rules
+alwaysApply: true
+---
+Read AGENTS.md at the repository root. It is the canonical policy. Use only the relevant skill under .agents/skills; do not preload all skill bodies.
